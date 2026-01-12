@@ -113,15 +113,6 @@ streamlit run blur_images.py
 
 ---
 
-## 📈 Future Enhancements
-
-* 🔥 Real-time webcam background blur
-* 🧠 Face-aware segmentation
-* 📱 Mobile-friendly UI
-* ☁️ Cloud deployment (Hugging Face Spaces / AWS)
-* ⚡ Faster inference using optimized models
-
----
 
 ## 🧩 Known Limitations
 
