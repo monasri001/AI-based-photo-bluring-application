@@ -6,14 +6,6 @@ Built with **Streamlit** and **Hugging Face Transformers**, this project demonst
 
 ---
 
-## 🚀 Features
-
-* ✅ Automatic foreground–background separation using AI
-* 🎯 Precise segmentation with refined mask edges
-* 🎚️ Adjustable background blur intensity
-* 🖼️ Side-by-side original and processed image preview
-* 📥 Download processed image in PNG format
-* ⚡ GPU acceleration support (if available)
 
 ---
 
